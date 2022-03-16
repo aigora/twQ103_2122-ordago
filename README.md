@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Claudia Gomez (claugmz), Silvia Alfageme (silviaalfageme) y Jimena Pelegri
 
 ## Objetivos del trabajo
 
